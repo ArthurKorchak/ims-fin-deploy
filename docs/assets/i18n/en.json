@@ -1,0 +1,34 @@
+{
+  "GENERIC": {
+    "SEND": "Send",
+    "TICKER": "Ticker"
+  },
+  "WORKSPACE": {
+    "STRIKES_RANGE": "Strikes range (around price)"
+  },
+  "VIEW_TYPES": {
+    "OI_ANALYSIS":  "OI analysis",
+    "OI_MAP": "OI map",
+    "GEX_ANALYSIS":  "GEX analysis",
+    "AGGREGATED_ANALYSIS": "Aggregated analysis"
+  },
+  "MESSAGING": {
+    "MESSAGE_TO_CREATOR": "Message to creator",
+    "SEND_MESSAGE_TO_CREATOR": "Send a message to the app creator",
+    "SEND_MESSAGE_TO_CREATOR_SUB": "If you encounter technical problems, have suggestions for improving the application or other questions, you can use this contact form",
+    "LEAVE_A_MESSAGE": "Leave a message",
+    "START_TO_INPUT_MESSAGE": "Start to input message..."
+  },
+  "NOTIFICATIONS": {
+    "TERMS_CONDITIONS": {
+      "FIRST": "By using this website, you agree to the",
+      "SECOND": "terms and conditions"
+    },
+    "MARKET_IS_CLOSED": "Market is closed, data may be incorrect or missing! Data is usually available starting 30-60 minutes before opening."
+  },
+  "TERMS_CONDITIONS": {
+    "TERMS_CONDITIONS": "Terms and conditions",
+    "DISCLAIMER": "Disclaimer",
+    "TEXT": "This application is provided as a non-release (pre-release/beta) version and may contain bugs, defects, or instability. By using this application, you acknowledge and accept these potential risks. The application is provided \"as is\" without any warranties, express or implied, including but not limited to the warranties of merchantability or fitness for a particular purpose. Long-term support, updates, or maintenance are not guaranteed. The developers shall not be held liable for any damages arising from the use or inability to use the application.<br><br> Collection of Technical Information:<br><br> During the use of the application, certain technical and other anonymized information may be automatically processed to ensure service stability, improve functionality, perform analytics, and support general analysis of user interaction. This information may include, among other things, operating system type, device specifications, interface interaction patterns, and a locally generated session identifier.<br> Anonymized or aggregated data may be used internally or shared with partners as part of collaborative efforts, provided that such sharing does not directly or indirectly identify any specific user. No personal data (such as name, address, email, banking or identification information) is collected or processed."
+  }
+}
