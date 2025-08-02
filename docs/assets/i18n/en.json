@@ -1,7 +1,10 @@
 {
   "GENERIC": {
     "SEND": "Send",
-    "TICKER": "Ticker"
+    "TICKER": "Ticker",
+    "NAME": "Name",
+    "LOADING": "Loading",
+    "NOTHING_FOUND": "Nothing found"
   },
   "WORKSPACE": {
     "STRIKES_RANGE": "Strikes range (around price)"

@@ -1,7 +1,10 @@
 {
   "GENERIC": {
     "SEND": "Надіслати",
-    "TICKER": "Тікер"
+    "TICKER": "Тікер",
+    "NAME": "Назва",
+    "LOADING": "Завантаження",
+    "NOTHING_FOUND": "Нічого не знайдено"
   },
   "WORKSPACE": {
     "STRIKES_RANGE": "Страйки (навколо ціни)"
